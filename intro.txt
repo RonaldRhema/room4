@@ -1,0 +1,7 @@
+Name "Yusuf Yahya"
+Backgroud " I am a android developer with a keen interest in Cloud computing"
+interest " Playing football,coding,learning new things"
+expectation "To get the necessary skills for solving real world problems"
+fun fact " i know how to dance"
+superpower "teleportation" 
+
